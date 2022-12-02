@@ -4,6 +4,7 @@ class BannerModel {
   final String title;
   final String imageBanner;
   final String topImage;
+  // ignore: prefer_typing_uninitialized_variables
   final gradientColor;
 
   BannerModel({

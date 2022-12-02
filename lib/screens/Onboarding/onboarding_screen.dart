@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:food_app/data/colors.dart';
 import 'package:food_app/models/onboarding_models.dart';
-import 'package:food_app/screens/registration/register_screen.dart';
+import 'package:food_app/screens/Registration/register_screen.dart';
 import 'package:food_app/widgets/description_text.dart';
 import 'package:food_app/widgets/title_text.dart';
 import 'package:google_fonts/google_fonts.dart';

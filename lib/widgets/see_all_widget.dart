@@ -10,7 +10,9 @@ class SeeAllRowWidget extends StatelessWidget {
   final Size size;
   final String title;
   final String subTitle;
+  // ignore: prefer_typing_uninitialized_variables
   final seeAllColor;
+  // ignore: prefer_typing_uninitialized_variables
   final iconColor;
   @override
   Widget build(BuildContext context) {
