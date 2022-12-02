@@ -14,6 +14,7 @@ class ButtonWidget extends StatelessWidget {
   final Color backgroundColor;
   final String title;
   final Color titleColor;
+  // ignore: prefer_typing_uninitialized_variables
   final onTab;
 
   @override

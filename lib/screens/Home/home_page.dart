@@ -1,11 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:food_app/data/colors.dart';
-import 'package:food_app/models/banner_model.dart';
-import 'package:food_app/models/booking_list_model.dart';
-import 'package:food_app/models/list_hor_model.dart';
 import 'package:food_app/widgets/banner_widget.dart';
 import 'package:food_app/widgets/list_booking.dart';
 import 'package:food_app/widgets/list_hor_widget.dart';

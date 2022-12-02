@@ -1,10 +1,8 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:food_app/data/colors.dart';
 import 'package:food_app/screens/Forget%20Password/success_password_screen.dart';
 import 'package:food_app/widgets/buttom_widget.dart';
 import 'package:food_app/widgets/form_items.dart';
-import 'package:food_app/widgets/title_text.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class ForgetPasswordScreen extends StatelessWidget {

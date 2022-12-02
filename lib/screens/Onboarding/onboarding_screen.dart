@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
 import 'package:food_app/data/colors.dart';
 import 'package:food_app/models/onboarding_models.dart';
 import 'package:food_app/screens/Registration/register_screen.dart';

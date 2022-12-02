@@ -13,6 +13,7 @@ class ButtomRegisterAndLoginAndGoogle extends StatelessWidget {
 
   final Size size;
   final String titleButtom;
+  // ignore: prefer_typing_uninitialized_variables
   final onTab;
 
   @override

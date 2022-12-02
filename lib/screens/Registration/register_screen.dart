@@ -1,13 +1,6 @@
-import 'dart:ui';
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
 import 'package:food_app/data/colors.dart';
-import 'package:food_app/pages/create_account_page.dart';
-import 'package:food_app/pages/login_page.dart';
 import 'package:food_app/widgets/bottom_text.dart';
 import 'package:food_app/widgets/build_bottom_sheet.dart';
 import 'package:food_app/widgets/buttom_widget.dart';
